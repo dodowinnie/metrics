@@ -10,5 +10,8 @@ public class MetricsEurekaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MetricsEurekaApplication.class, args);
 
+		System.out.println("本地开发11111");
+		System.out.println("123123");
+
 	}
 }
